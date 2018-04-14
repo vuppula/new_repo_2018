@@ -62,4 +62,10 @@
       </plugins>
     </pluginManagement>
   </build>
+  
+	<scm>
+		<url>https://github.com/vuppula/new_repo_2018.git</url>
+		<connection>scm:git:git://github.com:vuppula/new_repo_2018.git</connection>
+		<developerConnection>scm:git:git@github.com:vuppula/new_repo_2018.git</developerConnection>
+	</scm>
 </project>
